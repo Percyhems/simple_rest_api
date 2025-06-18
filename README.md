@@ -6,5 +6,5 @@ This is a small REST API to create and retrieve users using Python and flask.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/simple_rest_api.git
+git clone https://github.com/Percyhems/simple_rest_api.git
 cd simple_rest_api
